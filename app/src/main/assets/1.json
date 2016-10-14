@@ -1,0 +1,1391 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2014 The New York Times Company.  All Rights Reserved.",
+  "num_results": 277,
+  "results": [
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/opinion\/our-cats-ourselves.html",
+      "count_type": "EMAILED",
+      "column": "Op-Ed Contributor",
+      "section": "Opinion",
+      "byline": "By RAZIB KHAN",
+      "title": "Our Cats, Ourselves",
+      "abstract": "Domestication happened to humans, too. We&#8217;ve evolved a lot like pets.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "GENETICS AND HEREDITY",
+        "EVOLUTION (BIOLOGY)",
+        "CATS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Melody Newcomb",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/opinion\/1125OPEDnewcomb\/1125OPEDnewcomb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/opinion\/1125OPEDnewcomb\/1125OPEDnewcomb-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/opinion\/1125OPEDnewcomb\/1125OPEDnewcomb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/opinion\/is-harvard-unfair-to-asian-americans.html",
+      "count_type": "EMAILED",
+      "column": "Op-Ed Contributor",
+      "section": "Opinion",
+      "byline": "By YASCHA MOUNK",
+      "title": "Is Harvard Unfair to Asian-Americans?",
+      "abstract": "In a true meritocracy, whites would be a minority of the student body. That worries some people.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "COLLEGES AND UNIVERSITIES",
+        "ADMISSIONS STANDARDS",
+        "DISCRIMINATION",
+        "RACE AND ETHNICITY"
+      ],
+      "org_facet": [
+        "HARVARD UNIVERSITY"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Abbott Lawrence Lowell, 1923.",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/opinion\/25mounk\/25mounk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/opinion\/25mounk\/25mounk-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/opinion\/25mounk\/25mounk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/science\/art-in-a-whisky-glass-neatly-explained.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Science",
+      "byline": "By KENNETH CHANG",
+      "title": "Art in a Whisky Glass, Neatly Explained",
+      "abstract": "After having a Scotch years ago, a photographer saw beauty at the bottom. Then he got interested in the science behind the patterns.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "PHYSICS",
+        "WHISKEY",
+        "SCIENCE AND TECHNOLOGY"
+      ],
+      "org_facet": [
+        "AMERICAN PHYSICAL SOCIETY"
+      ],
+      "per_facet": [
+        "BUTTON, ERNIE (1967- )",
+        "STONE, HOWARD ALVIN (1960- )",
+        "YUNKER, PETER J",
+        "KIM, HYOUNGSOO"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Photographs from Ernie Button's series, <a href=\"http:\/\/erniebutton.com\/?portfolio=vanishing-spirits-the-dried-remains-of-singlemalt-scotch\">&ldquo;Vanishing Spirits &mdash; The Dried Remains of Single Malt Scotch.&rdquo;<\/a>",
+          "copyright": "Ernie Button",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25WHISCOMBO\/25WHISCOMBO-thumbStandard-v5.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25WHISCOMBO\/25WHISCOMBO-thumbLarge-v5.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25WHISCOMBO\/25WHISCOMBO-mediumThreeByTwo210-v5.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Glenlivet Whisky",
+          "copyright": "Ernie Button",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25whiskeyglenlivet\/25whiskeyglenlivet-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25whiskeyglenlivet\/25whiskeyglenlivet-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25whiskeyglenlivet\/25whiskeyglenlivet-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Macallan Whisky",
+          "copyright": "Ernie Button",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25whiskeymacallan\/25whiskeymacallan-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25whiskeymacallan\/25whiskeymacallan-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25whiskeymacallan\/25whiskeymacallan-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bruichladdich Whisky<em> <br \/><\/em>",
+          "copyright": "Ernie Button",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/24whiskeybruichladdich\/24whiskeybruichladdich-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/24whiskeybruichladdich\/24whiskeybruichladdich-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/24whiskeybruichladdich\/24whiskeybruichladdich-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Highland Park Whisky",
+          "copyright": "Ernie Button",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25whiskeyhighlandpark\/25whiskeyhighlandpark-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25whiskeyhighlandpark\/25whiskeyhighlandpark-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25whiskeyhighlandpark\/25whiskeyhighlandpark-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/opinion\/david-brooks-the-unifying-leader.html",
+      "count_type": "EMAILED",
+      "column": "Op-Ed Columnist",
+      "section": "Opinion",
+      "byline": "By DAVID BROOKS",
+      "title": "The Unifying Leader",
+      "abstract": "The only way for American political culture to change is for leaders to be more creative in their approach to collaboration.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "PRESIDENTS AND PRESIDENCY (US)",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "REPUBLICAN PARTY",
+        "SENATE",
+        "HOUSE OF REPRESENTATIVES"
+      ],
+      "per_facet": [
+        "OBAMA, BARACK"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Earl Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/01\/opinion\/brooks-circular\/brooks-circular-thumbStandard-v2.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/01\/opinion\/brooks-circular\/brooks-circular-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/01\/opinion\/brooks-circular\/brooks-circular-mediumThreeByTwo210-v2.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/interactive\/2014\/11\/25\/upshot\/thanksgiving-recipes-googled-in-every-state.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "The Upshot",
+      "byline": "By THE UPSHOT STAFF",
+      "title": "The Thanksgiving Recipes Googled in Every State",
+      "abstract": "Which foods are unusually popular in each state on Thanksgiving.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "THANKSGIVING DAY",
+        "STATES (US)",
+        "RECIPES"
+      ],
+      "org_facet": [
+        "GOOGLE INC"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "Photographs of some of the most-searched foods in each state.",
+          "copyright": "Photographs by:Tony Cenicola, Richard Perry and Marilynn K. Yee\/The New York Times. Sara Essex Bradley, Susan Farley, Tina Fineberg, Taylor Glascock, Randy Harris, Eric Moran, Karsten Moran, Andrew Scrivani, Evan Sung, Francesco Tonelli, Daniel van Acker, ",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/upshot\/thanksgiving-with-google-by-state-1416871894173\/thanksgiving-with-google-by-state-1416871894173-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/upshot\/thanksgiving-with-google-by-state-1416871894173\/thanksgiving-with-google-by-state-1416871894173-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/upshot\/thanksgiving-with-google-by-state-1416871894173\/thanksgiving-with-google-by-state-1416871894173-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/opinionator.blogs.nytimes.com\/2014\/11\/22\/the-rules-of-psychotherapy\/",
+      "count_type": "EMAILED",
+      "column": "Couch",
+      "section": "Opinion",
+      "byline": "By ROBIN WEISS",
+      "title": "The &lsquo;Rules&rsquo; of Psychotherapy",
+      "abstract": "Would I talk to my patient about myself?",
+      "published_date": "2014-11-22",
+      "source": "The New York Times",
+      "des_facet": [
+        "PSYCHIATRY AND PSYCHIATRISTS",
+        "PSYCHOLOGY AND PSYCHOLOGISTS",
+        "THERAPY AND REHABILITATION"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/23\/sunday-review\/23COUCHsub\/23COUCHsub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/arts\/shakespeare-folio-discovered-in-france-.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Arts",
+      "byline": "By JENNIFER SCHUESSLER",
+      "title": "Shakespeare Folio Discovered in France ",
+      "abstract": "A first folio of Shakespeare&#8217;s plays &#8212; one of only 233 known examples &#8212; was discovered by chance in a public library near Calais, France.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": [
+        "THEATER",
+        "BOOKS AND LITERATURE"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "SHAKESPEARE, WILLIAM"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The book, the 233rd known surviving first folio, was found in a public library near Calais.",
+          "copyright": "Denis Charlet\/Agence France-Presse \u2014 Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/world\/SHAKESPEARE\/SHAKESPEARE-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/world\/SHAKESPEARE\/SHAKESPEARE-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/world\/SHAKESPEARE\/SHAKESPEARE-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/business\/a-place-where-lost-luggage-gets-another-shot.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Business Day",
+      "byline": "By MIKE TIERNEY",
+      "title": "A Place Where Lost Luggage Gets Another Shot",
+      "abstract": "Unclaimed Baggage Center is a family business tucked away in Scottsboro, Ala., that sells items as varied as iPads, mink furs and mattresses.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "LUGGAGE",
+        "SHOPPING AND RETAIL",
+        "AIRLINES AND AIRPLANES"
+      ],
+      "org_facet": [
+        "UNCLAIMED BAGGAGE CENTER"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "SCOTTSBORO (ALA)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Guitars, electric and acoustic, now for sale. The store also keeps a museum of unusual items.",
+          "copyright": "Joe Buglewicz for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/business\/Baggagejp\/Baggagejp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/business\/Baggagejp\/Baggagejp-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/business\/Baggagejp\/Baggagejp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shopping for headphones at the Unclaimed Baggage Center in Scottsboro, Ala.",
+          "copyright": "Joe Buglewicz for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/business\/20141115BAGGAGE-slide-7WDJ\/20141115BAGGAGE-slide-7WDJ-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/business\/20141115BAGGAGE-slide-7WDJ\/20141115BAGGAGE-slide-7WDJ-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/business\/20141115BAGGAGE-slide-7WDJ\/20141115BAGGAGE-slide-7WDJ-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/opinion\/the-meaning-of-the-ferguson-riots.html",
+      "count_type": "EMAILED",
+      "column": "Today's Editorials",
+      "section": "Opinion",
+      "byline": "By THE EDITORIAL BOARD",
+      "title": " The Meaning of the Ferguson Riots ",
+      "abstract": "Distrust of law enforcement presents a grave danger to the civic fabric of the United States.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": [
+        "BLACKS",
+        "POLICE BRUTALITY, MISCONDUCT AND SHOOTINGS"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "BROWN, MICHAEL (1996-2014)",
+        "WILSON, DARREN (1986- )"
+      ],
+      "geo_facet": [
+        "FERGUSON (MO)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dellwood, Mo., on Tuesday.",
+          "copyright": "Justin Sullivan\/Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/opinion\/26wed1\/26wed1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/opinion\/26wed1\/26wed1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/opinion\/26wed1\/26wed1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/24\/health\/private-oncologists-being-forced-out-leaving-patients-to-face-higher-bills.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Health",
+      "byline": "By GINA KOLATA",
+      "title": "Private Oncologists Being Forced Out, Leaving Patients to Face Higher Bills",
+      "abstract": "Oncologists say they are being forced to sell or close their practices because insurers have reduced payments to them and because drugs are so expensive.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "CANCER",
+        "DRUGS (PHARMACEUTICALS)",
+        "DOCTORS",
+        "HEALTH INSURANCE AND MANAGED CARE",
+        "HOSPITALS"
+      ],
+      "org_facet": [
+        "AMERICAN SOCIETY OF CLINICAL ONCOLOGY"
+      ],
+      "per_facet": [
+        "BACH, PETER B"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Peter Eisenberg, left, said people with less money were treated differently by doctors.",
+          "copyright": "Preston Gannaway for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/us\/ALT-ONCOLOGY\/ALT-ONCOLOGY-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/us\/ALT-ONCOLOGY\/ALT-ONCOLOGY-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/us\/ALT-ONCOLOGY\/ALT-ONCOLOGY-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/us\/rocked-by-rape-report-university-of-virginia-to-hold-special-meeting.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By JENNIFER STEINHAUER and RICHARD P\u00c9REZ-PE\u00d1A",
+      "title": "University of Virginia\u2019s Image Suffers After Campus Rape Report",
+      "abstract": "The governing board will meet Tuesday to discuss complaints that the university has for years mishandled reports of sexual assaults.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "COLLEGES AND UNIVERSITIES",
+        "SEX CRIMES",
+        "FRATERNITIES AND SORORITIES"
+      ],
+      "org_facet": [
+        "ROLLING STONE",
+        "UNIVERSITY OF VIRGINIA"
+      ],
+      "per_facet": [
+        "GRAHAM, HANNAH ELIZABETH",
+        "LOVE, YEARDLEY",
+        "HUGUELY, GEORGE"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A University of Virginia student stood by the door of Peabody Hall, where students had posted sticky notes with messages like &ldquo;I wish I could leave.&rdquo;",
+          "copyright": "Steve Helber\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/25VIRGINIA1\/25VIRGINIA1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/25VIRGINIA1\/25VIRGINIA1-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/25VIRGINIA1\/25VIRGINIA1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jalen Ross, the president of the student council, spoke at a news conference on Monday, calling the Rolling Stone article a &ldquo;wake-up call.&rdquo;",
+          "copyright": "Steve Helber\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/VIRGINIA2\/VIRGINIA2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/VIRGINIA2\/VIRGINIA2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/VIRGINIA2\/VIRGINIA2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On Saturday, protesters gathered with signs at the Phi Kappa Psi fraternity house.",
+          "copyright": "Ryan M. Kelly\/The Daily Progress, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/25VIRGINIA3\/25VIRGINIA3-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/25VIRGINIA3\/25VIRGINIA3-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/25VIRGINIA3\/25VIRGINIA3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/us\/ferguson-grand-jury-weighed-mass-of-evidence-much-of-it-conflicting.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By JULIE BOSMAN, CAMPBELL ROBERTSON, ERIK ECKHOLM and RICHARD A. OPPEL Jr.",
+      "title": "Amid Conflicting Accounts, Trusting Darren Wilson",
+      "abstract": "In testimony from roughly 60 witnesses, there were varying accounts of the critical final moments, when Michael Brown stopped running, turned and moved back toward Officer Darren Wilson.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": [
+        "POLICE BRUTALITY, MISCONDUCT AND SHOOTINGS"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "WILSON, DARREN (1986- )",
+        "BROWN, MICHAEL (1996-2014)"
+      ],
+      "geo_facet": [
+        "FERGUSON (MO)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One of the photos of Officer Darren Wilson, taken following the shooting, that were provided to the grand jury as evidence. &nbsp;",
+          "copyright": "St. Louis County Prosecutor",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/25ferguson-blog-face\/25ferguson-blog-face-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/25ferguson-blog-face\/25ferguson-blog-face-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/25ferguson-blog-face\/25ferguson-blog-face-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some of the images presented as evidence to the St. Louis County grand jury, including Officer Darren Wilson's gun, broken glass from his official vehicle and Michael Brown's hat.",
+          "copyright": "Photographs via St. Louis County Prosecutor's Office",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/FERGUSON-QUAD\/FERGUSON-QUAD-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/FERGUSON-QUAD\/FERGUSON-QUAD-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/FERGUSON-QUAD\/FERGUSON-QUAD-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Brown",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/us\/JP-TESTIMONY2\/JP-TESTIMONY2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/us\/JP-TESTIMONY2\/JP-TESTIMONY2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/us\/JP-TESTIMONY2\/JP-TESTIMONY2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/nyregion\/casablanca-piano-to-be-auctioned-at-bonhams.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "N.Y. \/ Region",
+      "byline": "By JAMES BARRON",
+      "title": "\u2018Casablanca\u2019 Piano Sells for $3.4 Million at Bonhams",
+      "abstract": "The painted upright in Rick\u2019s Caf\u00e9 Am\u00e9ricain that was immortalized in the movie was among the items sold on Monday in Manhattan.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "AUCTIONS",
+        "PIANOS",
+        "MOVIES"
+      ],
+      "org_facet": [
+        "BONHAMS 1793 LTD"
+      ],
+      "per_facet": [
+        "BOGART, HUMPHREY"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The painted upright piano from Rick's Caf&eacute; Am&eacute;ricain in &ldquo;Casablanca&rdquo; was among the items sold at Bonhams.",
+          "copyright": "Richard Perry\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/nyregion\/25PIANO1\/25PIANO1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/nyregion\/25PIANO1\/25PIANO1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/nyregion\/25PIANO1\/25PIANO1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A scene from &ldquo;Casablanca&rdquo; showing Humphrey Bogart listening while Dooley Wilson, as Sam, plays the piano.",
+          "copyright": "Michael Ochs Archives\/Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/nyregion\/PIANO2\/PIANO2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/nyregion\/PIANO2\/PIANO2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/nyregion\/PIANO2\/PIANO2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/business\/media\/calling-out-bill-cosbys-media-enablers-including-myself.html",
+      "count_type": "EMAILED",
+      "column": "The Media Equation",
+      "section": "Business Day",
+      "byline": "By DAVID CARR",
+      "title": "Calling Out Bill Cosby\u2019s Media Enablers, Including Myself",
+      "abstract": "Many journalists and biographers were in the know about the sexual assault accusations against Mr. Cosby. So what took so long for the story to become national news?",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "WOMEN AND GIRLS",
+        "MAGAZINES",
+        "TELEVISION",
+        "RACE AND ETHNICITY",
+        "BLACKS"
+      ],
+      "org_facet": [
+        "ABC NEWS",
+        "NATIONAL BROADCASTING CO",
+        "NETFLIX INC",
+        "NEWSWEEK",
+        "PHILADELPHIA (MAGAZINE)",
+        "TV LAND",
+        "WASHINGTON POST",
+        "PEOPLE (MAGAZINE)"
+      ],
+      "per_facet": [
+        "COSBY, BILL",
+        "WHITAKER, MARK",
+        "BURESS, HANNIBAL",
+        "COATES, TA-NEHISI"
+      ],
+      "geo_facet": [
+        "PHILADELPHIA (PA)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bill Cosby performing last Friday in Melbourne, Fla. Social media helped propel accusations of his sexual misconduct into a national news story.",
+          "copyright": "Gerardo Mora\/Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/business\/Carr\/Carr-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/business\/Carr\/Carr-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/business\/Carr\/Carr-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/health\/radiologists-are-reducing-the-pain-of-uncertainty.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Health",
+      "byline": "By GINA KOLATA",
+      "title": "Radiologists Are Reducing the Pain of Uncertainty",
+      "abstract": "Radiologists are becoming more accessible to patients, but there are questions over whether the two parties will be able to handle dealing with each other when the results of scans are unwelcome.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "X-RAYS",
+        "TESTS (MEDICAL)",
+        "DOCTORS",
+        "MEDICINE AND HEALTH",
+        "COMPUTERIZED AXIAL TOMOGRAPHY (CAT SCANS)",
+        "CANCER"
+      ],
+      "org_facet": [
+        "TWITTER",
+        "TWTR",
+        "NYSE"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Jennifer Kemp, a Denver radiologist, is leading an effort to make radiologists more accessible to patients.",
+          "copyright": "Justin Edmonds for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25RADI\/25RADI-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25RADI\/25RADI-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25RADI\/25RADI-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Steve Burrin gets CT scans every nine weeks as part of his lung cancer treatment.",
+          "copyright": "Emily Berl for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25JPRADI2\/25JPRADI2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25JPRADI2\/25JPRADI2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25JPRADI2\/25JPRADI2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Steve Burrin asks for a copy of his CT scan results immediately after they are performed and takes them home to attempt to understand them for himself.",
+          "copyright": "Emily Berl for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25JPRADI1\/25JPRADI1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25JPRADI1\/25JPRADI1-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25JPRADI1\/25JPRADI1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/24\/business\/energy-environment\/solar-and-wind-energy-start-to-win-on-price-vs-conventional-fuels.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Business Day",
+      "byline": "By DIANE CARDWELL",
+      "title": "Solar and Wind Energy Start to Win on Price vs. Conventional Fuels",
+      "abstract": "The cost of electricity from wind and solar power plants has plummeted, making it cheaper than coal or natural gas in some places.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "ALTERNATIVE AND RENEWABLE ENERGY",
+        "WIND POWER",
+        "SOLAR ENERGY"
+      ],
+      "org_facet": [
+        "AMERICAN ELECTRIC POWER CO INC",
+        "AEP",
+        "NYSE"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A wind farm in Weatherford, Okla. In a study, the cost of wind power came in as low as 1.4 cents a kilowatt-hour.",
+          "copyright": "Paul Hellstern for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/business\/parityjump\/parityjump-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/business\/parityjump\/parityjump-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/business\/parityjump\/parityjump-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/science\/a-lifesaving-transplant-for-coral-reefs.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Science",
+      "byline": "By RICHARD MORIN",
+      "title": "A Lifesaving Transplant for Coral Reefs",
+      "abstract": "A quick-grow laboratory technique, called microfragmenting, may make it possible to mass-produce reef-building corals for transplanting onto dead or dying reefs that took centuries to develop.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "CORAL",
+        "REEFS",
+        "OCEANS AND SEAS"
+      ],
+      "org_facet": [
+        "MOTE TROPICAL RESEARCH LABORATORY",
+        "FIELD MUSEUM"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "FLORIDA KEYS"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A mountainous star coral colony that was grown from an inch-square fragment cut a year earlier off of a parent colony.",
+          "copyright": "Richard Morin",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25Coral1\/25Coral1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25Coral1\/25Coral1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25Coral1\/25Coral1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Divers \"plant\" live coral fragments that were grown in a nursery onto dead coral skeletons in the Florida keys using epoxy putty.",
+          "copyright": "Erich Bartels\/Mote Marine Lab",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25CORA2\/25CORA2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25CORA2\/25CORA2-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25CORA2\/25CORA2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/coral-1416855419242\/coral-1416855419242-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/coral-1416855419242\/coral-1416855419242-thumbLarge.png",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/coral-1416855419242\/coral-1416855419242-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Vaughan with one of nine shallow 180-gallon salt water tanks, which contain colonies of massive corals grown from tiny coral fragments.",
+          "copyright": "Richard Morin",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25JPCORA1\/25JPCORA1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25JPCORA1\/25JPCORA1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25JPCORA1\/25JPCORA1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/well.blogs.nytimes.com\/2014\/11\/25\/a-warning-on-nutmeg\/",
+      "count_type": "EMAILED",
+      "column": "Well",
+      "section": "Health",
+      "byline": "By DEBORAH BLUM",
+      "title": "A Warning on Nutmeg",
+      "abstract": "This holiday season, measure your nutmeg carefully.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "HOLIDAYS AND SPECIAL OCCASIONS",
+        "NUTMEG",
+        "POISONING AND POISONS",
+        "SPICES"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/science\/26poisonpen\/26poisonpen-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/us\/fda-to-announce-sweeping-calorie-rules-for-restaurants.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Health",
+      "byline": "By SABRINA TAVERNISE and STEPHANIE STROM",
+      "title": "F.D.A. to Require Calorie Count, Even for Popcorn at the Movies",
+      "abstract": "The Food and Drug Administration announced a sweeping rule that will require chain restaurants and movie theaters to post calorie counts on their menus.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "OBESITY",
+        "LABELING AND LABELS",
+        "RESTAURANTS",
+        "FOOD",
+        "PIZZA"
+      ],
+      "org_facet": [
+        "FOOD AND DRUG ADMINISTRATION",
+        "NATIONAL RESTAURANT ASSN"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Movie theaters across the country will be required to post calorie counts on their menus.",
+          "copyright": "Ruby Washington\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/science\/25fda\/25fda-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/science\/25fda\/25fda-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/science\/25fda\/25fda-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/well.blogs.nytimes.com\/2014\/11\/24\/brains-of-people-with-chronic-fatigue-syndrome-offer-clues-about-disorder\/",
+      "count_type": "EMAILED",
+      "column": "Well",
+      "section": "Health",
+      "byline": "By DAVID TULLER",
+      "title": "Brains of People with Chronic Fatigue Syndrome Offer Clues About Disorder",
+      "abstract": "Two recent studies suggest that physiological factors may underlie chronic fatigue syndrome.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "BRAIN",
+        "CHRONIC FATIGUE SYNDROME",
+        "RESEARCH"
+      ],
+      "org_facet": [
+        "RADIOLOGY (JOURNAL)"
+      ],
+      "per_facet": [
+        "ZEINEH, MICHAEL M"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25FATI\/25FATI-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,863 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2014 The New York Times Company.  All Rights Reserved.",
+  "num_results": 277,
+  "results": [
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/24\/business\/media\/serial-podcastings-first-breakout-hit-sets-stage-for-more.html",
+      "count_type": "EMAILED",
+      "column": "The Media Equation",
+      "section": "Business Day",
+      "byline": "By DAVID CARR",
+      "title": "\u2018Serial,\u2019 Podcasting\u2019s First Breakout Hit, Sets Stage for More",
+      "abstract": "If podcasting\u2019s model seems familiar \u2014 Netflix, anyone? \u2014 it\u2019s no surprise that it will have similar transformative effects on traditional audio programming providers, like public radio.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "PODCASTS",
+        "RADIO",
+        "PUBLIC BROADCASTING"
+      ],
+      "org_facet": [
+        "NATIONAL PUBLIC RADIO"
+      ],
+      "per_facet": [
+        "KOENIG, SARAH"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sarah Koenig, the reporter who brought \"Serial\" to life, recording an episode at a studio for \"This American Life\" in New York.",
+          "copyright": "Elise Bergerson",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/business\/carrjump\/carrjump-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/business\/carrjump\/carrjump-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/business\/carrjump\/carrjump-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/well.blogs.nytimes.com\/2014\/11\/24\/low-vitamin-d-tied-to-higher-death-risk\/",
+      "count_type": "EMAILED",
+      "column": "Well",
+      "section": "Health",
+      "byline": "By NICHOLAS BAKALAR",
+      "title": "Low Vitamin D Tied to Higher Death Risk",
+      "abstract": "A new study provides persuasive evidence that low serum vitamin D itself increases the risk of death.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "DEATHS (FATALITIES)",
+        "GENETICS AND HEREDITY",
+        "VITAMIN D"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2012\/05\/29\/health\/well_prognosis\/well_prognosis-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/us\/ferguson-darren-wilson-shooting-michael-brown-grand-jury.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By MONICA DAVEY and JULIE BOSMAN",
+      "title": "Protests Flare After Ferguson Police Officer Is Not Indicted",
+      "abstract": "Darren Wilson was not charged in the fatal shooting of Michael Brown in Ferguson, Mo., which set off civil unrest over what protesters called a pattern of police brutality against young black men.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "POLICE BRUTALITY, MISCONDUCT AND SHOOTINGS",
+        "DECISIONS AND VERDICTS"
+      ],
+      "org_facet": [
+        "JUSTICE DEPARTMENT"
+      ],
+      "per_facet": [
+        "WILSON, DARREN (1986- )",
+        "BROWN, MICHAEL (1996-2014)",
+        "MCCULLOCH, ROBERT P (1951- )"
+      ],
+      "geo_facet": [
+        "FERGUSON (MO)"
+      ],
+      "media": ""
+    },
+    {
+      "url": "http:\/\/well.blogs.nytimes.com\/2014\/11\/20\/most-heavy-drinkers-are-not-alcoholics-study-finds\/",
+      "count_type": "EMAILED",
+      "column": "Well",
+      "section": "Health",
+      "byline": "By TARA PARKER-POPE",
+      "title": "Most Heavy Drinkers Are Not Alcoholics",
+      "abstract": "Most people who drink too much are not alcoholics, suggesting that they can be helped more easily than previously believed, a new government study shows.",
+      "published_date": "2014-11-20",
+      "source": "The New York Times",
+      "des_facet": [
+        "ALCOHOL ABUSE",
+        "TRAFFIC ACCIDENTS AND SAFETY"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/21\/science\/20alcohol\/20alcohol-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/dealbook.nytimes.com\/2014\/11\/24\/a-deal-mortgaging-the-store-values-saks-at-3-7-billion\/",
+      "count_type": "EMAILED",
+      "column": "DealBook",
+      "section": "Business Day",
+      "byline": "By MICHAEL J. DE LA MERCED and CHARLES V. BAGLI",
+      "title": "Saks Flagship Store Is Appraised for Mortgage at $3.7 Billion",
+      "abstract": "Hudson&#8217;s Bay took out a loan against the Saks Fifth Avenue flagship that valued the department store at nearly $4 billion, making it one of the most valuable retail properties in the country.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "APPRAISALS AND VALUATION (PROPERTY)",
+        "MORTGAGES",
+        "REAL ESTATE (COMMERCIAL)",
+        "SHOPPING AND RETAIL"
+      ],
+      "org_facet": [
+        "HUDSON'S BAY CO",
+        "SAKS FIFTH AVENUE"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/business\/subSaksjp\/subSaksjp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/bits.blogs.nytimes.com\/2014\/11\/24\/symantec-discovers-spy-code-lurking-on-computer-networks\/",
+      "count_type": "EMAILED",
+      "column": "Bits",
+      "section": "Technology",
+      "byline": "By NICOLE PERLROTH",
+      "title": "Symantec Discovers 'Regin' Spy Code Lurking on Computer Networks",
+      "abstract": "The security company released a report Sunday night indicating that a powerful program that could only have been created by a &#8220;nation state&#8221; has been finding its way into computer systems for six years.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "COMPUTER SECURITY",
+        "CYBERATTACKS AND HACKERS",
+        "CYBERWARFARE"
+      ],
+      "org_facet": [
+        "MICROSOFT CORPORATION",
+        "SYMANTEC CORPORATION"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/business\/24bits-symantec\/24bits-symantec-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/world\/europe\/pope-francis-strasbourg-european-parliament.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "World",
+      "byline": "By ANDREW HIGGINS",
+      "title": "At European Parliament, Pope Bluntly Critiques a Continent&#8217;s Malaise ",
+      "abstract": "Europe, he declared before the European Parliament in France, has lost its way, its energies sapped by economic crisis and a remote, technocratic bureaucracy.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": "",
+      "org_facet": [
+        "EUROPEAN PARLIAMENT",
+        "ROMAN CATHOLIC CHURCH"
+      ],
+      "per_facet": [
+        "FRANCIS"
+      ],
+      "geo_facet": [
+        "FRANCE",
+        "STRASBOURG (FRANCE)",
+        "EUROPE"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pope Francis at the European Parliament in Strasbourg, France, on Tuesday. He was the first pope to address the assembly since John Paul II in 1988.",
+          "copyright": "Christophe Karaba\/European Pressphoto Agency",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/world\/POPE\/POPE-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/world\/POPE\/POPE-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/world\/POPE\/POPE-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pope Francis, offering a &ldquo;message of hope&rdquo; to the European Parliament, gave a strikingly frank critique of Europe&rsquo;s malaise.",
+          "copyright": "Pool photo by Christian Hartmann",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/world\/europe\/subPOPE-REFER\/subPOPE-REFER-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/world\/europe\/subPOPE-REFER\/subPOPE-REFER-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/world\/europe\/subPOPE-REFER\/subPOPE-REFER-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/interactive\/2014\/11\/25\/us\/evidence-released-in-michael-brown-case.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "U.S.",
+      "byline": "",
+      "title": "Documents Released in the Ferguson Case",
+      "abstract": "Documents and evidence presented to the grand jury that was deciding whether to indict Officer Darren Wilson in the shooting of Michael Brown.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/evidence-released-in-michael-brown-case-1416904064502\/evidence-released-in-michael-brown-case-1416904064502-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/evidence-released-in-michael-brown-case-1416904064502\/evidence-released-in-michael-brown-case-1416904064502-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/evidence-released-in-michael-brown-case-1416904064502\/evidence-released-in-michael-brown-case-1416904064502-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/well.blogs.nytimes.com\/2014\/11\/24\/pcos-an-infertility-issue-that-is-little-understood\/",
+      "count_type": "EMAILED",
+      "column": "Well",
+      "section": "Health",
+      "byline": "By JANE E. BRODY",
+      "title": "PCOS: An Infertility Issue That Is Little Understood",
+      "abstract": "Polycystic ovarian syndrome affects as many as 10 percent of women of childbearing age, but its underlying cause is not fully understood and misdiagnosis can result in ineffective treatment.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "DIABETES",
+        "ESTROGEN",
+        "HORMONES",
+        "MENSTRUATION",
+        "OVARIES",
+        "WOMEN AND GIRLS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": ""
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/nyregion\/leslie-feinberg-writer-and-transgender-activist-dies-at-65.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "N.Y. \/ Region",
+      "byline": "By BRUCE WEBER",
+      "title": "Leslie Feinberg, Writer and Transgender Activist, Dies at 65 ",
+      "abstract": "Feinberg&#8217;s 1993 novel, &#8220;Stone Butch Blues,&#8221; is considered a landmark in the contemporary literature of gender complexity.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "DEATHS (OBITUARIES)",
+        "WRITING AND WRITERS"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "FEINBERG, LESLIE (1949-2014)"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Leslie Feinberg in 2011.",
+          "copyright": "Leslie Feinberg",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/nyregion\/25FEINBERG-obit\/25FEINBERG-obit-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/nyregion\/25FEINBERG-obit\/25FEINBERG-obit-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/nyregion\/25FEINBERG-obit\/25FEINBERG-obit-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/us\/witnesses-told-grand-jury-that-michael-brown-charged-at-darren-wilson-prosecutor-says.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By ERIK ECKHOLM",
+      "title": "Witnesses Told Grand Jury That Michael Brown Charged at Darren Wilson, Prosecutor Says",
+      "abstract": "The most credible eyewitnesses to the shooting said the teenager had charged toward Officer Darren Wilson just before the fatal shots, the St. Louis County prosecutor said.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "POLICE BRUTALITY, MISCONDUCT AND SHOOTINGS",
+        "JURY SYSTEM"
+      ],
+      "org_facet": [
+        "JUSTICE DEPARTMENT"
+      ],
+      "per_facet": [
+        "BROWN, MICHAEL (1996-2014)",
+        "WILSON, DARREN (1986- )",
+        "MCCULLOCH, ROBERT P (1951- )"
+      ],
+      "geo_facet": [
+        "FERGUSON (MO)"
+      ],
+      "media": ""
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/24\/opinion\/judaism-must-embrace-the-convert.html",
+      "count_type": "EMAILED",
+      "column": "Op-Ed Contributor",
+      "section": "Opinion",
+      "byline": "By SHMULY YANKLOWITZ",
+      "title": "Judaism Must Embrace the Convert",
+      "abstract": "Our people believe in inclusiveness as well as chosenness.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "JEWS AND JUDAISM",
+        "RABBIS"
+      ],
+      "org_facet": [
+        "RABBINICAL COUNCIL OF AMERICA"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Melinda Beck",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/22\/opinion\/1124OPEDbeck\/1124OPEDbeck-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/22\/opinion\/1124OPEDbeck\/1124OPEDbeck-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/22\/opinion\/1124OPEDbeck\/1124OPEDbeck-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/interactive\/2014\/11\/24\/us\/north-dakota-oil-boom-politics.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By DEBORAH SONTAG",
+      "title": "Where Oil and Politics Mix",
+      "abstract": "After an unusual land deal, a giant spill and a tanker-train explosion, anxiety began to ripple across the North Dakota prairie.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "HYDRAULIC FRACTURING",
+        "OIL (PETROLEUM) AND GASOLINE"
+      ],
+      "org_facet": [
+        "CONOCOPHILLIPS"
+      ],
+      "per_facet": [
+        "DALRYMPLE, JOHN (1948- )"
+      ],
+      "geo_facet": [
+        "BAKKEN SHALE FIELD (ND)",
+        "NORTH DAKOTA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Jim Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/20\/us\/20141120DAKOTA2PIX-slide-SF8W\/20141120DAKOTA2PIX-slide-SF8W-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/20\/us\/20141120DAKOTA2PIX-slide-SF8W\/20141120DAKOTA2PIX-slide-SF8W-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/20\/us\/20141120DAKOTA2PIX-slide-SF8W\/20141120DAKOTA2PIX-slide-SF8W-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/dining\/why-sauternes-is-underappreciated.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Food",
+      "byline": "By ERIC ASIMOV",
+      "title": "The Bittersweet Tale of Sauternes",
+      "abstract": "Rarity, price and changing tastes mean a Bordeaux classic isn&#8217;t as loved as it should be.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": [
+        "WINES"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "BORDEAUX (FRANCE)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tina Fineberg for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26POUR\/POUR-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26POUR\/POUR-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26POUR\/26POUR-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/books\/ali-smith-on-her-new-book-how-to-be-both.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Books",
+      "byline": "By SARAH LYALL",
+      "title": "An Onion of a Novel, Demanding to Be Peeled",
+      "abstract": "Ali Smith says her much-lauded new novel, &#8220;How to Be Both,&#8221; explores how every great narrative is always about what is on the surface and what is hidden underneath.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": [
+        "BOOKS AND LITERATURE"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "SMITH, ALI"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ali Smith was nominated for the Man Booker Prize for her novel \"How to Be Both.\"",
+          "copyright": "Alastair Grant\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/arts\/26alismith-1\/26alismith-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/arts\/26alismith-1\/26alismith-1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/arts\/26alismith-1\/26alismith-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/opinion\/frank-bruni-on-thanksgiving-an-abundance-thats-about-much-more-than-food.html",
+      "count_type": "EMAILED",
+      "column": "Op-Ed Columnist",
+      "section": "Opinion",
+      "byline": "By FRANK BRUNI",
+      "title": "When Italians Meet Turkey",
+      "abstract": "&#160;Our Thanksgiving menu tends to sprawl. But then so do our feelings.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": [
+        "COOKING AND COOKBOOKS",
+        "FAMILIES AND FAMILY LIFE"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "UNITED STATES"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Justin Sullivan\/Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/opinion\/26bruni\/26bruni-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/opinion\/26bruni\/26bruni-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/opinion\/26bruni\/26bruni-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Earl Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/01\/opinion\/bruni-circular\/bruni-circular-thumbStandard-v2.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/01\/opinion\/bruni-circular\/bruni-circular-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/01\/opinion\/bruni-circular\/bruni-circular-mediumThreeByTwo210-v2.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/takingnote.blogs.nytimes.com\/2014\/11\/24\/its-good-to-be-rich-you-get-a-lower-tax-rate\/",
+      "count_type": "EMAILED",
+      "column": "Taking Note",
+      "section": "Opinion",
+      "byline": "By TERESA TRITCH",
+      "title": "It&rsquo;s Good to Be Rich: You Get a Lower Tax Rate",
+      "abstract": "The top 400 taxpayers paid an average rate of 18 percent in 2010.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "CAPITAL GAINS TAX",
+        "FEDERAL TAXES (US)",
+        "INCOME TAX"
+      ],
+      "org_facet": [
+        "INTERNAL REVENUE SERVICE"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": ""
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/dining\/restaurant-review-bar-bolonat-in-the-west-village.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Food",
+      "byline": "By PETE WELLS",
+      "title": "Restaurant Review: Bar Bolonat in the West Village",
+      "abstract": "The chef Einat Admony and the flavors of multiethnic Israel shine after the restaurant&#8217;s rough start.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": [
+        "RESTAURANTS"
+      ],
+      "org_facet": [
+        "BAR BOLONAT (MANHATTAN, NY, RESTAURANT)"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "WEST VILLAGE (MANHATTAN, NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shrimp in a Yemenite curry.",
+          "copyright": "Francesco Sapienza for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26REST2\/26REST2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26REST2\/26REST2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26REST2\/26REST2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/24\/science\/climbing-a-glass-building-try-a-geckos-sticky-pads.html",
+      "count_type": "EMAILED",
+      "column": "ScienceTake",
+      "section": "Science",
+      "byline": "By JAMES GORMAN",
+      "title": "Climbing a Glass Building? Try a Gecko\u2019s Sticky Pads",
+      "abstract": "The lizard and, well, Spider-Man, have ideal tools for scaling slippery surfaces. Engineers have copied the gecko\u2019s clingy foot pads.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "ENGINEERING AND ENGINEERS",
+        "ADHESIVES",
+        "LIZARDS"
+      ],
+      "org_facet": [
+        "JOURNAL OF THE ROYAL SOCIETY INTERFACE",
+        "STANFORD UNIVERSITY"
+      ],
+      "per_facet": [
+        "CUTKOSKY, MARK R",
+        "CHRISTENSEN, DAVID L",
+        "EASON, ERIC V"
+      ],
+      "geo_facet": "",
+      "media": ""
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/dining\/how-to-be-the-perfect-thanksgiving-guest.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Food",
+      "byline": "By PETE WELLS",
+      "title": "A Script to Play the Role of Guest Star ",
+      "abstract": "Filling your plate and keeping your wineglass upright are only two of the ways to contribute when someone else is the Thanksgiving host.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": [
+        "THANKSGIVING DAY",
+        "CUSTOMS, ETIQUETTE AND MANNERS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jen Hsieh",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26GUEST\/26GUEST-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26GUEST\/26GUEST-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26GUEST\/26GUEST-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

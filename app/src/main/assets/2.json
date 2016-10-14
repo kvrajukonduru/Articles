@@ -1,0 +1,1262 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2014 The New York Times Company.  All Rights Reserved.",
+  "num_results": 276,
+  "results": [
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/opinion\/joe-nocera-committed-to-carbon-goals.html",
+      "count_type": "EMAILED",
+      "column": "Op-Ed Columnist",
+      "section": "Opinion",
+      "byline": "By JOE NOCERA",
+      "title": "Committed to Carbon Goals",
+      "abstract": "The chief executive of NRG Energy is making his company part of the solution.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "GREENHOUSE GAS EMISSIONS",
+        "ALTERNATIVE AND RENEWABLE ENERGY",
+        "COAL"
+      ],
+      "org_facet": [
+        "NRG ENERGY INC"
+      ],
+      "per_facet": [
+        "CRANE, DAVID W (1959- )"
+      ],
+      "geo_facet": [
+        "UNITED STATES"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Earl Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/01\/opinion\/nocera-circular\/nocera-circular-thumbStandard-v2.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/01\/opinion\/nocera-circular\/nocera-circular-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/01\/opinion\/nocera-circular\/nocera-circular-mediumThreeByTwo210-v2.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/sports\/football\/catch-by-giants-odell-beckham-jr-made-for-a-great-picture.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Sports",
+      "byline": "By JEFFREY FURTICELLA",
+      "title": "Catching the Catch on Camera",
+      "abstract": "Those who saw still photographs of Giants receiver Odell Beckham Jr.'s catch on Sunday night might have wondered: How did the photographer capture that?",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "PHOTOGRAPHY",
+        "FOOTBALL"
+      ],
+      "org_facet": [
+        "NEW YORK GIANTS"
+      ],
+      "per_facet": [
+        "BECKHAM, ODELL JR",
+        "CORTEZ, JULIO",
+        "SILVERMAN, BARTON"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Odell Beckham Jr.'s one-handed catch from Sunday night, caught on camera by seven different photographers.",
+          "copyright": "Row 1 - Barton Silverman\/The New York Times and Adam Hunger\/USA TODAY Sports, via Reuters \u2014 Row 2 - Kathy Willens\/Associated Press and Al Bello\/Getty Images \u2014 Row 3 - Julio Cortez\/Associated Press and Jim O'Connor\/USA TODAY Sports, via Reuters \u2014 vertical o",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTDGRID\/24BECKHAMTDGRID-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTDGRID\/24BECKHAMTDGRID-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTDGRID\/24BECKHAMTDGRID-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elsa\/Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD2\/24BECKHAMTD2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD2\/24BECKHAMTD2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD2\/24BECKHAMTD2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Adam Hunger\/USA TODAY Sports, via Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD3\/24BECKHAMTD3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD3\/24BECKHAMTD3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD3\/24BECKHAMTD3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Julio Cortez\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD6\/24BECKHAMTD6-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD6\/24BECKHAMTD6-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD6\/24BECKHAMTD6-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Al Bello\/Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD5\/24BECKHAMTD5-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD5\/24BECKHAMTD5-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD5\/24BECKHAMTD5-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jim O'Connor\/USA TODAY Sports, via Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD7\/24BECKHAMTD7-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD7\/24BECKHAMTD7-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD7\/24BECKHAMTD7-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Barton Silverman\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD1\/24BECKHAMTD1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD1\/24BECKHAMTD1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD1\/24BECKHAMTD1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kathy Willens\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD4\/24BECKHAMTD4-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD4\/24BECKHAMTD4-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/24BECKHAMTD4\/24BECKHAMTD4-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Mills\/NJ Advance Media",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/MILLS\/MILLS-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/MILLS\/MILLS-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/MILLS\/MILLS-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/sports\/football\/a-lab-perfect-reception-by-the-giants-odell-beckham-jr.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Sports",
+      "byline": "By BILL PENNINGTON",
+      "title": "Even Under Microscope, Catch by Giants\u2019 Odell Beckham Jr. Earns Applause",
+      "abstract": "On the morning after one of the better catches in N.F.L. history, the play was being analyzed by physicists, mechanical engineers and sports scientists.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "FOOTBALL"
+      ],
+      "org_facet": [
+        "NEW YORK GIANTS",
+        "DALLAS COWBOYS"
+      ],
+      "per_facet": [
+        "BECKHAM, ODELL JR"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Odell Beckham Jr. after making a one-handed touchdown catch on Sunday. One professor called Beckham&rsquo;s reception &ldquo;a near superhuman activity.&rdquo;",
+          "copyright": "Barton Silverman\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/GIANTS2\/GIANTS2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/GIANTS2\/GIANTS2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/GIANTS2\/GIANTS2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beckham&rsquo;s catch has drawn comparisons to David Tyree&rsquo;s catch in Super Bowl XLII.",
+          "copyright": "Barton Silverman\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/jpGIANTS\/jpGIANTS-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/jpGIANTS\/jpGIANTS-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/jpGIANTS\/jpGIANTS-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/opinion\/israel-narrows-its-democracy.html",
+      "count_type": "EMAILED",
+      "column": "Editorial",
+      "section": "Opinion",
+      "byline": "By THE EDITORIAL BOARD",
+      "title": "Israel Narrows Its Democracy ",
+      "abstract": "In any form, the contentious bill that would officially define Israel as the nation-state of the Jewish people, reserving &#8220;national rights&#8221; only for Jews, should be defeated.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "EDITORIALS",
+        "JEWS AND JUDAISM",
+        "PALESTINIANS",
+        "DISCRIMINATION",
+        "MINORITIES"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "ISRAEL",
+        "UNITED STATES"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prime Minister Benjamin Netanyahu",
+          "copyright": "Pool photo by Jim Hollander",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/opinion\/25tue2\/25tue2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/opinion\/25tue2\/25tue2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/opinion\/25tue2\/25tue2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/us\/lawmakers-look-for-ways-to-provide-relief-for-rising-cost-of-generic-drugs.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By ELISABETH ROSENTHAL",
+      "title": "Lawmakers Look for Ways to Provide Relief for Rising Cost of Generic Drugs",
+      "abstract": "With the prices for some common generic medicines soaring over the past 18 months, state and federal lawmakers are trying to find relief for patients struggling to pay.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "DRUGS (PHARMACEUTICALS)",
+        "PRICES (FARES, FEES AND RATES)"
+      ],
+      "org_facet": [
+        "FOOD AND DRUG ADMINISTRATION",
+        "GENERIC PHARMACEUTICAL ASSN",
+        "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Amy Klobuchar, a Minnesota Democrat, plans to revive legislation to allow prescription imports from Canada.",
+          "copyright": "Drew Angerer\/Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/GENERICS\/GENERICS-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/GENERICS\/GENERICS-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/GENERICS\/GENERICS-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/opinion\/a-problem-beyond-mr-hagel.html",
+      "count_type": "EMAILED",
+      "column": "Today's Editorials",
+      "section": "Opinion",
+      "byline": "By THE EDITORIAL BOARD",
+      "title": "A Problem Beyond Mr. Hagel ",
+      "abstract": "The defense secretary resigned, but the Obama administration&#8217;s core military problem is a national security policy that has been too incoherent and shifting.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "UNITED STATES DEFENSE AND MILITARY FORCES",
+        "EDITORIALS",
+        "UNITED STATES INTERNATIONAL RELATIONS"
+      ],
+      "org_facet": [
+        "ISLAMIC STATE IN IRAQ AND SYRIA (ISIS)"
+      ],
+      "per_facet": [
+        "HAGEL, CHUCK",
+        "OBAMA, BARACK"
+      ],
+      "geo_facet": [
+        "SYRIA",
+        "IRAQ",
+        "AFGHANISTAN",
+        "UNITED STATES"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Defense Secretary Chuck Hagel",
+          "copyright": "Kevin Lamarque\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/opinion\/25tue1\/25tue1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/opinion\/25tue1\/25tue1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/opinion\/25tue1\/25tue1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/opinion\/the-problem-with-prostate-screening.html",
+      "count_type": "EMAILED",
+      "column": "Op-Ed Contributor",
+      "section": "Opinion",
+      "byline": "By RICHARD J. ABLIN",
+      "title": "The Problem With Prostate Screening",
+      "abstract": "Two major studies on its benefits are deeply flawed.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": [
+        "TESTS (MEDICAL)",
+        "PROSTATE SPECIFIC ANTIGEN",
+        "PROSTATE CANCER",
+        "PROSTATE GLAND"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A doctor in Florida performed a robot-assisted prostate surgery.",
+          "copyright": "Chris Garlington for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/opinion\/26ablin\/26ablin-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/opinion\/26ablin\/26ablin-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/opinion\/26ablin\/26ablin-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/dealbook.nytimes.com\/2014\/11\/24\/sen-warrens-misplaced-ire-at-nominee\/",
+      "count_type": "EMAILED",
+      "column": "DealBook",
+      "section": "Business Day",
+      "byline": "By ANDREW ROSS SORKIN",
+      "title": "Senator Elizabeth Warren's Misplaced Rage at Obama's Treasury Nominee",
+      "abstract": "Senator Elizabeth Warren&#8217;s wrath toward Antonio F. Weiss is misdirected, and her understanding of the inversion deal on which she bases her opposition appears misinformed.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/business\/dbpix-sorkin-warren\/dbpix-sorkin-warren-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/world\/report-faults-care-of-peace-corps-volunteer.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By SHERYL GAY STOLBERG",
+      "title": "Report Faults Care of Peace Corps Volunteer",
+      "abstract": "The Peace Corps inspector general cited \u201ccascading delays and failures in treatment\u201d as a factor in the death in 2013 of Nick Castle, a volunteer who fell gravely ill in China.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "VOLUNTEERS AND COMMUNITY SERVICE",
+        "DEATHS (FATALITIES)",
+        "MALPRACTICE"
+      ],
+      "org_facet": [
+        "PEACE CORPS"
+      ],
+      "per_facet": [
+        "CASTLE, NICHOLAS MATTHEW (1990-2014)",
+        "GAO, JIN"
+      ],
+      "geo_facet": [
+        "CHINA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nick Castle, a 2012 graduate of the University of California, Berkeley.",
+          "copyright": "Clayton J. Mitchell",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/07\/26\/world\/jpPEACECORPS3-copy\/jpPEACECORPS3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/07\/26\/world\/jpPEACECORPS3-copy\/jpPEACECORPS3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/07\/26\/world\/jpPEACECORPS3-copy\/jpPEACECORPS3-copy-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/science\/the-lives-of-alexander-grothendieck-a-mathematical-visionary.html",
+      "count_type": "EMAILED",
+      "column": "Appreciation",
+      "section": "Science",
+      "byline": "By EDWARD FRENKEL",
+      "title": "The Lives of Alexander Grothendieck, a Mathematical Visionary",
+      "abstract": "To say Alexander Grothendieck was the No. 1 mathematician of the second half of the 20th century cannot begin to do justice to him or his body of work.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "MATHEMATICS"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "GROTHENDIECK, ALEXANDER (1928-2014)"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexander Grothendieck at the blackboard during a lesson at IHES, the mathematics institute near Paris, in the 1960s, above, and in 1988, right.",
+          "copyright": "IHES, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25MATH1\/25MATH1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25MATH1\/25MATH1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25MATH1\/25MATH1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alexander Grothendieck revolutionized the field known as algebraic geometry.",
+          "copyright": "Erika Ifang",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25MATH2\/25MATH2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25MATH2\/25MATH2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25MATH2\/25MATH2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/science\/solving-the-riddles-of-an-early-astronomical-calculator.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Science",
+      "byline": "By JOHN MARKOFF",
+      "title": "On the Trail of an Ancient Mystery",
+      "abstract": "More than 100 years after it was found, and more than 2,000 years after it was believed to have been built, the Antikythera Mechanism continues to raise questions and provide answers.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "ARCHAEOLOGY",
+        "GREEK CIVILIZATION"
+      ],
+      "org_facet": [
+        "ARCHIVE FOR HISTORY OF EXACT SCIENCES (JOURNAL)"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "CRETE (GREECE)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Part of the Antikythera Mechanism, above, an astronomical calculator raised from a shipwreck in 1901.",
+          "copyright": "Thanassis Stavrakis\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25DEVI1\/25DEVI1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25DEVI1\/25DEVI1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25DEVI1\/25DEVI1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A digital image of the surface inscriptions on the Antikythera Mechanism.",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25DEVI2\/25DEVI2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25DEVI2\/25DEVI2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/science\/25DEVI2\/25DEVI2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/world\/europe\/turkish-president-says-women-shouldnt-be-considered-equals.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "World",
+      "byline": "By SEBNEM ARSU",
+      "title": "Turkish President Says Women Shouldn&#8217;t Be Considered Equals",
+      "abstract": "At an international conference on justice and rights, President Recep Tayyip Erdogan on Monday said that women should not be regarded as equal to men and condemned feminists for rejecting motherhood.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "WOMEN'S RIGHTS",
+        "PREGNANCY AND CHILDBIRTH",
+        "WOMEN AND GIRLS",
+        "DISCRIMINATION"
+      ],
+      "org_facet": [
+        "TWITTER",
+        "TWTR",
+        "NYSE"
+      ],
+      "per_facet": [
+        "ERDOGAN, RECEP TAYYIP"
+      ],
+      "geo_facet": [
+        "TURKEY"
+      ],
+      "media": ""
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/books\/michael-connellys-the-burning-room-revisits-harry-bosch.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Books",
+      "byline": "By JANET MASLIN",
+      "title": "The Craziness Adds Up for an Antihero Cop",
+      "abstract": "Michael Connelly continues his Harry Bosch series in &#8220;The Burning Room,&#8221; with a recent death that actually goes back a decade.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "BOOKS AND LITERATURE"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "CONNELLY, MICHAEL (1956- )"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sonny Figueroa\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/BOOK\/BOOK-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/BOOK\/BOOK-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/BOOK\/BOOK-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Connelly",
+          "copyright": "Mark DeLong",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/jpbookconnelly\/jpbookconnelly-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/jpbookconnelly\/jpbookconnelly-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/jpbookconnelly\/jpbookconnelly-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/opinion\/beppe-severgnini-is-rome-slowly-burning.html",
+      "count_type": "EMAILED",
+      "column": "Op-Ed | Beppe Severgnini",
+      "section": "Opinion",
+      "byline": "By BEPPE SEVERGNINI",
+      "title": "Is Rome Burning?",
+      "abstract": "Why Italy\u2019s urban peripheries are coming apart \u2014 and how to save them.",
+      "published_date": "2014-11-25",
+      "source": "International New York Times",
+      "des_facet": [
+        "URBAN AREAS",
+        "ARCHITECTURE"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "ITALY",
+        "ROME (ITALY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beppe Severgnini",
+          "copyright": "Anna Animelli",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/10\/11\/opinion\/contributors_severgnini\/contributors_severgnini-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/10\/11\/opinion\/contributors_severgnini\/contributors_severgnini-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/10\/11\/opinion\/contributors_severgnini\/11OPINIONATORsevergnini-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/health\/fda-issues-caution-on-use-of-uterine-surgery-device-that-can-spread-cancer.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Health",
+      "byline": "By DENISE GRADY",
+      "title": "F.D.A. Issues Caution on Use of Uterine Surgery Device That Can Spread Cancer",
+      "abstract": "The agency warns that the tool ought not be used for most women, but critics complain that anything short of a ban is bad policy.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "UTERINE CANCER",
+        "MEDICAL DEVICES",
+        "RECALLS AND BANS OF PRODUCTS",
+        "WOMEN AND GIRLS"
+      ],
+      "org_facet": [
+        "FOOD AND DRUG ADMINISTRATION"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": ""
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/sports\/baseball\/red-sox-add-pablo-sandoval-and-hanley-ramirez-to-revamped-roster.html",
+      "count_type": "EMAILED",
+      "column": "On Baseball",
+      "section": "Sports",
+      "byline": "By TYLER KEPNER",
+      "title": "No Disguising It: Red Sox Are Eyeing a Title Run ",
+      "abstract": "Pablo Sandoval is headed to Boston, bumping Hanley Ramirez to an already crowded outfield and opening an array of options for a team trying to rebuilding its starting rotation.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "BASEBALL"
+      ],
+      "org_facet": [
+        "BOSTON RED SOX"
+      ],
+      "per_facet": [
+        "RAMIREZ, HANLEY",
+        "SANDOVAL, PABLO",
+        "HAMELS, COLE"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pablo Sandoval is headed to the Red Sox for five years and about $100 million.",
+          "copyright": "Ezra Shaw\/Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/25kepner1\/25kepner1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/25kepner1\/25kepner1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/sports\/25kepner1\/25kepner1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/30\/magazine\/the-business-tycoons-of-airbnb.html",
+      "count_type": "EMAILED",
+      "column": "It\u2019s the Economy",
+      "section": "Magazine",
+      "byline": "By WILLIAM ALDEN",
+      "title": "The Business Tycoons of Airbnb",
+      "abstract": "The sharing economy is supposed to offer a new kind of capitalism for regular folks. But a class of well-heeled professionals are outperforming the amateurs.",
+      "published_date": "2014-11-30",
+      "source": "The New York Times",
+      "des_facet": [
+        "ECONOMIC CONDITIONS AND TRENDS",
+        "REAL ESTATE AND HOUSING (RESIDENTIAL)"
+      ],
+      "org_facet": [
+        "AIRBNB",
+        "EBAY INC",
+        "UBER TECHNOLOGIES INC"
+      ],
+      "per_facet": [
+        "SCHNEIDERMAN, ERIC T"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Kelsey Dake",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30econ\/30mag-30econ.t_CA0-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30econ\/30mag-30econ.t_CA0-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30econ\/30econ-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/nyregion\/as-booth-brothers-held-forth-1864-confederate-plot-against-new-york-fizzled.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "N.Y. \/ Region",
+      "byline": "By SAM ROBERTS",
+      "title": "As Booth Brothers Held Forth, 1864 Confederate Plot Against New York Fizzled",
+      "abstract": "Acting 150 years ago, saboteurs who were incensed by the Union Army\u2019s scorched-earth campaign tried to set 19 hotels, a theater and P.T. Barnum\u2019s Museum on fire.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "CIVIL WAR (US) (1861-65)",
+        "THEATER"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "BOOTH, JOHN WILKES",
+        "BOOTH, EDWIN THOMAS",
+        "BOOTH, JUNIUS BRUTUS JR"
+      ],
+      "geo_facet": [
+        "NEW YORK CITY"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Wilkes Booth, left, Edwin Thomas Booth and Junius Brutus Booth Jr. in Shakespeare's Julius Caesar in 1864.",
+          "copyright": "Brown University Library",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/nyregion\/nyplotweb\/nyplotweb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/nyregion\/nyplotweb\/nyplotweb-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/nyregion\/nyplotweb\/nyplotweb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/dining\/a-crumb-cake-makes-a-great-thanksgiving-hostess-gift.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Food",
+      "byline": "By MELISSA CLARK",
+      "title": "A Sweet Crumb Cake for Your Thanksgiving Hostess",
+      "abstract": "Bring along this decadent offering with honeyed pears that can compete with leftover pie.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": [
+        "COOKING AND COOKBOOKS",
+        "BAKERIES AND BAKED PRODUCTS",
+        "CAKES"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Scrivani for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26BRING\/26SUPERREEF-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26BRING\/26SUPERREEF-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26BRING\/26SUPERREEF-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/science\/clues-to-bees-history-tucked-away-in-drawers.html",
+      "count_type": "EMAILED",
+      "column": "Matter",
+      "section": "Science",
+      "byline": "By CARL ZIMMER",
+      "title": "Clues to Bees\u2019 History, Tucked Away in Drawers",
+      "abstract": "Scientists are dusting off old insect collections in museums in an effort to learn what has happened to bee populations.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "BEES",
+        "MUSEUMS",
+        "SCIENCE AND TECHNOLOGY"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "NETHERLANDS"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bombus sylvarum is a species of bee found across Europe.",
+          "copyright": "David Kleijn",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/science\/26zimmer\/26zimmer-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/science\/26zimmer\/26zimmer-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/science\/26zimmer\/26zimmer-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

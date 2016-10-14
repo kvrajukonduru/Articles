@@ -1,0 +1,1137 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2014 The New York Times Company.  All Rights Reserved.",
+  "num_results": 276,
+  "results": [
+    {
+      "url": "http:\/\/www.nytimes.com\/interactive\/2014\/11\/25\/us\/darren-wilson-testimony-ferguson-shooting.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By DAMIEN CAVE",
+      "title": "Officer Darren Wilson\u2019s Grand Jury Testimony in Ferguson, Mo., Shooting",
+      "abstract": "Officer Wilson explained why, in his view, the episode with Michael Brown, whom he compared to a demon and Hulk Hogan, became violent.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "FERGUSON (MO)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/darren-wilson-testimony-ferguson-shooting-1416905755351\/darren-wilson-testimony-ferguson-shooting-1416905755351-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/darren-wilson-testimony-ferguson-shooting-1416905755351\/darren-wilson-testimony-ferguson-shooting-1416905755351-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/darren-wilson-testimony-ferguson-shooting-1416905755351\/darren-wilson-testimony-ferguson-shooting-1416905755351-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/theater\/kneehigh-theaters-tristan-yseult.html",
+      "count_type": "EMAILED",
+      "column": "Theater Review | 'Tristan & Yseult'",
+      "section": "Theater",
+      "byline": "By BEN BRANTLEY",
+      "title": "A Love Story and Its Voyeurs",
+      "abstract": "Kneehigh Theater of Britain has brought \u201cTristan &amp; Yseult\u201d to St. Ann\u2019s Warehouse, with characters who gather at the Club of the Unloved.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "THEATER"
+      ],
+      "org_facet": [
+        "ST ANN'S WAREHOUSE (BROOKLYN, NY)",
+        "KNEEHIGH THEATER"
+      ],
+      "per_facet": [
+        "RICE, EMMA"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dominic Marsh and Hannah Vassallo star in \"Tristan &amp; Yseult,\" a Kneehigh Theater production with spectacle and a chorus of Lovespotters, at St. Ann&rsquo;s Warehouse.",
+          "copyright": "Sara Krulwich\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/TRISTAN\/TRISTAN-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/TRISTAN\/TRISTAN-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/TRISTAN\/TRISTAN-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hannah Vassallo, aloft, with Lovespotters in &ldquo;Tristan &amp; Yseult,&rdquo; directed by Emma Rice.",
+          "copyright": "Sara Krulwich\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/jptristian\/jptristian-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/jptristian\/jptristian-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/jptristian\/jptristian-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/opinion\/roger-cohen-keep-pushing-for-an-iran-deal.html",
+      "count_type": "EMAILED",
+      "column": "Op-Ed Columnist",
+      "section": "Opinion",
+      "byline": "By ROGER COHEN",
+      "title": "Keep Pushing for an Iran Deal",
+      "abstract": "If you don\u2019t like the idea of America at war with Islamic State and with Islamic State\u2019s sworn enemy, Iran, double down on diplomacy.",
+      "published_date": "2014-11-26",
+      "source": "International New York Times",
+      "des_facet": [
+        "NUCLEAR WEAPONS",
+        "INTERNATIONAL RELATIONS",
+        "URANIUM"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "KHAMENEI, ALI",
+        "KERRY, JOHN"
+      ],
+      "geo_facet": [
+        "IRAN"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Earl Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/01\/opinion\/cohen-circular\/cohen-circular-thumbStandard-v2.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/01\/opinion\/cohen-circular\/cohen-circular-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/01\/opinion\/cohen-circular\/cohen-circular-mediumThreeByTwo210-v2.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/op-talk.blogs.nytimes.com\/2014\/11\/24\/can-brain-science-be-dangerous\/",
+      "count_type": "EMAILED",
+      "column": "Op-Talk",
+      "section": "",
+      "byline": "By ANNA NORTH",
+      "title": "Can Brain Science Be Dangerous?",
+      "abstract": "When it&#8217;s used inaccurately to fight problems like poverty, some critics fear neuroscience could hurt more than it helps.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "ALZHEIMER'S DISEASE",
+        "BRAIN",
+        "CHILDREN AND CHILDHOOD",
+        "COLLEGES AND UNIVERSITIES",
+        "EPILEPSY",
+        "FEAR (EMOTION)"
+      ],
+      "org_facet": [
+        "GUARDIAN (BRITISH NEWSPAPER)"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/opinion\/nyto-poverty\/nyto-poverty-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/24\/opinion\/paul-krugman-the-inflation-and-rising-interest-rates-that-never-showed-up.html",
+      "count_type": "EMAILED",
+      "column": "Op-Ed Columnist",
+      "section": "Opinion",
+      "byline": "By PAUL KRUGMAN",
+      "title": "Rock Bottom Economics",
+      "abstract": "It&#8217;s amazing and depressing that we&#8217;ve spent six years at the big zero.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "INTEREST RATES",
+        "INFLATION (ECONOMICS)",
+        "UNITED STATES ECONOMY"
+      ],
+      "org_facet": [
+        "FEDERAL RESERVE SYSTEM"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "UNITED STATES"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Earl Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/12\/opinion\/krugman-circular\/krugman-circular-thumbStandard-v2.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/12\/opinion\/krugman-circular\/krugman-circular-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/12\/opinion\/krugman-circular\/krugman-circular-mediumThreeByTwo210-v2.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/video\/science\/100000003248878\/harnessing-gecko-power.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Science",
+      "byline": "David Frank",
+      "title": "ScienceTake | Harnessing Gecko Power",
+      "abstract": "Humans climb glass with a rig that uses gecko-inspired adhesive pads.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "LIZARDS",
+        "ADHESIVES"
+      ],
+      "org_facet": [
+        "STANFORD UNIVERSITY"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/21\/multimedia\/science-take-gecko\/science-take-gecko-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/21\/multimedia\/science-take-gecko\/science-take-gecko-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/21\/multimedia\/science-take-gecko\/science-take-gecko-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/arts\/televisions-hissing-yowling-animal-parade.html",
+      "count_type": "EMAILED",
+      "column": "Critic&#8217;s Notebook",
+      "section": "Arts",
+      "byline": "By NEIL GENZLINGER",
+      "title": "Angry Turkeys, Meet Grumpy Cats ",
+      "abstract": "The airwaves will teem with programming about animals in coming days, from another &#8220;Big Cat Week&#8221; on Nat Geo Wild to Destination America&#8217;s take on aggressive turkeys.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;Grumpy Cat&rsquo;s Worst Christmas Ever,&rdquo; on Lifetime.",
+          "copyright": "Chris Helcermanas-Benge\/Lifetime",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/ANIMALS2\/ANIMALS2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/ANIMALS2\/ANIMALS2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/ANIMALS2\/ANIMALS2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A scene from &ldquo;When Turkeys Attack,&rdquo; on Destination America.",
+          "copyright": "Destination America",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/ANIMALS\/ANIMALS-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/ANIMALS\/ANIMALS-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/ANIMALS\/ANIMALS-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "George Church and a digitally generated friend in &ldquo;How to Clone a Woolly Mammoth.&rdquo;",
+          "copyright": "Renegade Pictures\/Smithsonian Channel",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/SUB-JPANIMALS\/SUB-JPANIMALS-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/SUB-JPANIMALS\/SUB-JPANIMALS-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/SUB-JPANIMALS\/SUB-JPANIMALS-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/interactive\/2014\/11\/18\/dining\/thanksgiving-recipes-across-the-united-states.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Food",
+      "byline": "",
+      "title": "Thanksgiving Recipes Across the United States",
+      "abstract": "We\u2019ve scoured the nation for recipes that evoke each of the 50 states (and D.C. and Puerto Rico). These are our picks for the feast. Dig in, then tell us yours.",
+      "published_date": "2014-11-18",
+      "source": "The New York Times",
+      "des_facet": [
+        "THANKSGIVING DAY",
+        "RECIPES"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/18\/dining\/thanksgiving-recipes-across-the-united-states-1416332647882\/thanksgiving-recipes-across-the-united-states-1416332647882-thumbStandard-v14.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/18\/dining\/thanksgiving-recipes-across-the-united-states-1416332647882\/thanksgiving-recipes-across-the-united-states-1416332647882-thumbLarge-v5.png",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/18\/dining\/thanksgiving-recipes-across-the-united-states-1416332647882\/thanksgiving-recipes-across-the-united-states-1416332647882-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/video\/dining\/100000003195459\/pan-gravy.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Food",
+      "byline": "Meghan Gourley",
+      "title": "Classic Pan Gravy",
+      "abstract": "Sam Sifton makes a classic Thanksgiving gravy with white wine and stock.",
+      "published_date": "2014-10-24",
+      "source": "The New York Times",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": [
+        "SIFTON, SAM"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Jonathan Nastasi for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/20\/multimedia\/thanksgiving-pan-gravy\/thanksgiving-pan-gravy-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/20\/multimedia\/thanksgiving-pan-gravy\/thanksgiving-pan-gravy-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/20\/multimedia\/thanksgiving-pan-gravy\/thanksgiving-pan-gravy-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/nyregion\/unpredictable-east-coast-storm-could-snarl-thanksgiving-travel.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "N.Y. \/ Region",
+      "byline": "By MARC SANTORA",
+      "title": "Unpredictable East Coast Storm Could Snarl Thanksgiving Travel",
+      "abstract": "More than 20 million people live in the area under a winter storm warning, and some parts of New York and New Jersey could see 10 inches of snow on Wednesday.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": [
+        "SNOW AND SNOWSTORMS",
+        "WEATHER"
+      ],
+      "org_facet": [
+        "NATIONAL WEATHER SERVICE"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "EAST COAST (US)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Travelers wait to pass through security at La Guardia Airport. An unpredictable storm may leave three to five inches of snow in New York City on Wednesday, the busiest travel day of the year.",
+          "copyright": "Seth Wenig\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/nyregion\/26weather\/26weather-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/nyregion\/26weather\/26weather-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/nyregion\/26weather\/26weather-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/30\/books\/review\/what-makes-the-russian-literature-of-the-19th-century-so-distinctive.html",
+      "count_type": "EMAILED",
+      "column": "Bookends",
+      "section": "Books",
+      "byline": "",
+      "title": "What Makes the Russian Literature of the 19th Century So Distinctive?",
+      "abstract": "Francine Prose and Benjamin Moser discuss the great Russian writers and their approach to the human heart and soul.",
+      "published_date": "2014-11-30",
+      "source": "The New York Times",
+      "des_facet": [
+        "BOOKS AND LITERATURE",
+        "WRITING AND WRITERS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Francine Prose",
+          "copyright": "Illustration by R. Kikuo Johnson",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/09\/08\/books\/review\/Bookends-Francine-Prose\/Bookends-Francine-Prose-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/09\/08\/books\/review\/Bookends-Francine-Prose\/Bookends-Francine-Prose-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/09\/08\/books\/review\/Bookends-Francine-Prose\/Bookends-Francine-Prose-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Benjamin Moser",
+          "copyright": "Illustration by R. Kikuo Johnson",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/06\/books\/review\/06moser\/06moser-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/06\/books\/review\/06moser\/06moser-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/06\/books\/review\/06moser\/06moser-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustrations by R. Kikuo Johnson",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/books\/review\/30bookends\/30bookends-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/books\/review\/30bookends\/30bookends-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/books\/review\/30bookends\/30bookends-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/well.blogs.nytimes.com\/2014\/11\/24\/ask-well-can-athletes-be-vegans\/",
+      "count_type": "EMAILED",
+      "column": "Well",
+      "section": "Health",
+      "byline": "By GRETCHEN REYNOLDS",
+      "title": "Ask Well: Can Athletes Be Vegans?",
+      "abstract": "A reader asks about his 15-year-old son, an athlete who wants to switch to a vegan diet.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "ATHLETICS AND SPORTS",
+        "DIET AND NUTRITION",
+        "EXERCISE",
+        "VEGANISM",
+        "WEIGHT"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/21\/us\/askwellvegan\/askwellvegan-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/us\/ferguson-missouri-violence.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By MONICA DAVEY and MANNY FERNANDEZ",
+      "title": "Security in Ferguson Is Tightened After Night of Unrest",
+      "abstract": "Gov. Jay Nixon deployed 2,200 troops to Ferguson, Mo., in an effort to avoid a repetition of Monday night\u2019s violence, and broadly expanded their role in keeping the peace.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": [
+        "DEMONSTRATIONS, PROTESTS AND RIOTS",
+        "POLICE BRUTALITY, MISCONDUCT AND SHOOTINGS",
+        "DECISIONS AND VERDICTS"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "BROWN, MICHAEL (1996-2014)",
+        "WILSON, DARREN (1986- )"
+      ],
+      "geo_facet": [
+        "FERGUSON (MO)"
+      ],
+      "media": ""
+    },
+    {
+      "url": "http:\/\/opinionator.blogs.nytimes.com\/2014\/11\/22\/companions-in-misery\/",
+      "count_type": "EMAILED",
+      "column": "The Stone",
+      "section": "Opinion",
+      "byline": "By MARIANA ALESSANDRI",
+      "title": "Companions in Misery",
+      "abstract": "What can Schopenhauer, philosophy&#8217;s best known pessimist, tell us about New Yorkers?",
+      "published_date": "2014-11-22",
+      "source": "The New York Times",
+      "des_facet": [
+        "HAPPINESS",
+        "PHILOSOPHY",
+        "PSYCHOLOGY AND PSYCHOLOGISTS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "NEW YORK CITY"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/04\/25\/opinion\/opinionator-pog-thestone\/opinionator-pog-thestone-thumbStandard.gif",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/us\/hagel-said-to-be-stepping-down-as-defense-chief-under-pressure.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By HELENE COOPER",
+      "title": "Hagel Resigns Under Pressure as Global Crises Test Pentagon",
+      "abstract": "Defense Secretary Chuck Hagel\u2019s passivity and lack of support in President Obama\u2019s inner circle proved too much for an administration that found itself back on a war footing.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "UNITED STATES DEFENSE AND MILITARY FORCES",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "DEFENSE DEPARTMENT"
+      ],
+      "per_facet": [
+        "HAGEL, CHUCK",
+        "OBAMA, BARACK"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Defense Secretary Chuck Hagel at a news conference Monday with President Obama and Vice President Joseph R. Biden Jr.",
+          "copyright": "Jabin Botsford\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/HAGEL\/HAGEL-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/HAGEL\/HAGEL-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/us\/HAGEL\/HAGEL-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Hagel described Mr. Obama&rsquo;s national security strategy as a &ldquo;team effort&rdquo; and spoke of trying to &ldquo;build teams and to work together to make things happen for the good of the country.&rdquo; Mr. Hagel, however, was never part of Mr. Obama&rsquo;s inner circle.",
+          "copyright": "Stephen Crowley\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/world\/HAGEL\/HAGEL-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/world\/HAGEL\/HAGEL-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/world\/HAGEL\/HAGEL-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/us\/obamas-immigration-action-reinvigorates-tea-party.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By JEREMY W. PETERS",
+      "title": "After Obama&#8217;s Immigration Action, a Blast of Energy for the Tea Party ",
+      "abstract": "Federal spending reductions and the battle against the Affordable Care Act are taking a back seat to immigration, to the point that party members are calling for Sarah Palin to oppose John McCain, who supports immigration overhaul.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": [
+        "IMMIGRATION AND EMIGRATION",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "TEA PARTY MOVEMENT"
+      ],
+      "org_facet": [
+        "DEMOCRATIC PARTY",
+        "REPUBLICAN PARTY",
+        "SENATE",
+        "HERITAGE FOUNDATION"
+      ],
+      "per_facet": [
+        "LYNCH, LORETTA E",
+        "BOEHNER, JOHN A",
+        "HOLDER, ERIC H JR",
+        "INGRAHAM, LAURA A",
+        "OBAMA, BARACK",
+        "SESSIONS, JEFFERSON B III"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eric Cantor of Virginia, who lost a Republican primary to a Tea Party rival, in June with Speaker John A. Boehner.",
+          "copyright": "J. Scott Applewhite\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/us\/SUB-SUB-TEAPARTY1\/SUB-SUB-TEAPARTY1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/us\/SUB-SUB-TEAPARTY1\/SUB-SUB-TEAPARTY1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/us\/SUB-SUB-TEAPARTY1\/SUB-SUB-TEAPARTY1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the top of the list of potential targets are politicians like Senator John McCain of Arizona, a proponent of an immigration overhaul.",
+          "copyright": "T.J. Kirkpatrick for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/us\/SUB-TEAPARTY2\/SUB-TEAPARTY2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/us\/SUB-TEAPARTY2\/SUB-TEAPARTY2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/us\/SUB-TEAPARTY2\/SUB-TEAPARTY2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/24\/nyregion\/when-the-workday-ends-more-fathers-are-heading-to-the-kitchen.html",
+      "count_type": "EMAILED",
+      "column": "The Working Life",
+      "section": "N.Y. \/ Region",
+      "byline": "By RACHEL L. SWARNS",
+      "title": "When Their Workday Ends, More Fathers Are Heading Into the Kitchen",
+      "abstract": "As parents juggle the demands of their jobs with the desire to prepare home-cooked meals, men are increasingly in front of the stove.",
+      "published_date": "2014-11-24",
+      "source": "The New York Times",
+      "des_facet": [
+        "WORK-LIFE BALANCE",
+        "PARENTING",
+        "COOKING AND COOKBOOKS",
+        "SOCIAL CONDITIONS AND TRENDS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "UNITED STATES"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joe Kreisberg and his wife, Amy, both work, and Mr. Kreisberg has taken on the preparing of dinners for the couple and their 7-month-old son, Harrison.",
+          "copyright": "Richard Perry\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/nyregion\/24WORKINGweb\/24WORKINGweb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/nyregion\/24WORKINGweb\/24WORKINGweb-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/24\/nyregion\/24WORKINGweb\/24WORKINGweb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/dining\/tips-on-setting-the-thanksgiving-table.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Food",
+      "byline": "By SAM SIFTON",
+      "title": "Chart Your Seating",
+      "abstract": "Fine-tune those place settings, and allow extra room for waistline expansion.",
+      "published_date": "2014-11-26",
+      "source": "The New York Times",
+      "des_facet": [
+        "CUSTOMS, ETIQUETTE AND MANNERS",
+        "TABLES"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photograph by Tony Cenicola\/The New York Times; prop styling by Sara Abalan",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26TABLE\/26TABLE-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26TABLE\/26TABLE-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/dining\/26TABLE\/26TABLE-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/arts\/alex-poots-to-be-culture-sheds-artistic-director.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "Arts",
+      "byline": "By ROBIN POGREBIN",
+      "title": "Alex Poots to Be Culture Shed\u2019s Artistic Director",
+      "abstract": "Mr. Poots is to give up his current positions as head of the Manchester International Festival and the Park Avenue Armory.",
+      "published_date": "2014-11-25",
+      "source": "The New York Times",
+      "des_facet": [
+        "CULTURE (ARTS)",
+        "APPOINTMENTS AND EXECUTIVE CHANGES"
+      ],
+      "org_facet": [
+        "CULTURE SHED"
+      ],
+      "per_facet": [
+        "POOTS, ALEX"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An aerial view of the proposed Culture Shed, which is scheduled to be completed in 2018. The High Line is in the foreground.",
+          "copyright": "Diller Scofidio\/Renfro and Rockwell Group",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/JPSHED\/JPSHED-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/JPSHED\/JPSHED-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/JPSHED\/JPSHED-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alex Poots has been named to lead Culture Shed, to be finished in 2018.",
+          "copyright": "Antony Crook\/Manchester International Festival",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/SUB-SHED\/SUB-SHED-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/SUB-SHED\/SUB-SHED-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/25\/arts\/SUB-SHED\/SUB-SHED-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/interactive\/2014\/11\/23\/us\/north-dakota-oil-boom-downside.html",
+      "count_type": "EMAILED",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By DEBORAH SONTAG and ROBERT GEBELOFF",
+      "title": "The Downside of the Boom",
+      "abstract": "North Dakota took on the oversight of a multibillion-dollar oil industry with a regulatory system built on trust, warnings and second chances.",
+      "published_date": "2014-11-23",
+      "source": "The New York Times",
+      "des_facet": [
+        "OIL SPILLS",
+        "OIL (PETROLEUM) AND GASOLINE",
+        "HYDRAULIC FRACTURING",
+        "EXPLOSIONS (ACCIDENTAL)"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "NORTH DAKOTA",
+        "BAKKEN SHALE FIELD (ND)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "An oil pad on North Dakota's Fort Berthold Indian Reservation flares natural gas produced in the hydrofracturing process. Over a quarter of all natural gas produced in North Dakota is burned off this way.",
+          "copyright": "Brent McDonald",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/20\/us\/20141120DAKOTAPIX-slide-WIHV\/20141120DAKOTAPIX-slide-WIHV-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/20\/us\/20141120DAKOTAPIX-slide-WIHV\/20141120DAKOTAPIX-slide-WIHV-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/20\/us\/20141120DAKOTAPIX-slide-WIHV\/20141120DAKOTAPIX-slide-WIHV-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
