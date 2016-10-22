@@ -7,24 +7,32 @@ public class DataModel implements Comparable<DataModel> {
     String mByLine;
     String mTitle;
     ArrayList<String> mImageUrls;
+    String  mItemImageUrl;
+    String  mItemCost;
+    String mManfacturer;
+    String mItemName;
 
     public DataModel() {
 
     }
 
-    public DataModel(String byline, String title, ArrayList<String> imageUrl) {
-        mByLine = byline;
+
+    public DataModel( String title, String imageUrl,String price,String manufacturer,String itemname) {
+        mItemCost =price;
         mTitle = title;
-        mImageUrls = imageUrl;
+        mItemImageUrl = imageUrl;
+        mManfacturer =manufacturer;
+        mItemName = itemname;
+
     }
 
-    public String getmByLine() {
-        return mByLine;
-    }
-
-    public void setmByLine(String mByLine) {
-        this.mByLine = mByLine;
-    }
+//    public String getmByLine() {
+//        return mByLine;
+//    }
+//
+//    public void setmByLine(String mByLine) {
+//        this.mByLine = mByLine;
+//    }
 
     public String getmTitle() {
         return mTitle;
@@ -34,19 +42,46 @@ public class DataModel implements Comparable<DataModel> {
         this.mTitle = mTitle;
     }
 
-    public ArrayList<String> getmImageUrl() {
-        return mImageUrls;
+    public String getItemImageURL() {
+        return mItemImageUrl;
     }
 
-    public void setmImageUrl(ArrayList<String> mImageUrl) {
-        this.mImageUrls = mImageUrl;
+    public void setItemImageURL(String aUrl) {
+        this.mItemImageUrl = aUrl;
     }
+
+    public String getItemManfacturer() {
+        return mManfacturer;
+    }
+
+    public void setItemManfacturer(String aManfacturer) {
+        this.mManfacturer = aManfacturer;
+    }
+
+
+    public String getItemname() {
+        return mItemName;
+    }
+
+    public void setItemName(String aName) {
+        this.mItemName = aName;
+    }
+
+    public String getItemCost() {
+        return mItemCost;
+    }
+
+    public void setItemCost(String aPrice) {
+        this.mItemCost = aPrice;
+    }
+
 
 
     @Override
     public int compareTo(DataModel dataModel) {
 
-        return this.getmByLine().compareTo(dataModel.getmByLine());
+        //return this.getmByLine().compareTo(dataModel.getmByLine());
+        return this.getmTitle().compareTo(dataModel.getmTitle());
     }
 
 }

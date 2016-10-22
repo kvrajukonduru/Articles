@@ -21,8 +21,8 @@
             android:id="@+id/item_thumbnail"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:scaleType="fitCenter"
             android:padding="5dp"
+            android:scaleType="fitCenter"
             fresco:placeholderImage="@drawable/abc_ic_menu_selectall_mtrl_alpha" />
 
         <TextView

@@ -18,16 +18,10 @@ import java.util.List;
 
 public class NewsDataAdapter extends RecyclerView.Adapter<NewsDataAdapter.DataObjectHolder> {
 
-    public interface PaginationRequestCallback {
-        public void startLoading();
-    }
-
+    List<DataModel> mDataSet;
     private PaginationRequestCallback mPaginationRequestCallback;
 
     private ArticlesActivity mParentActivity;
-    List<DataModel> mDataSet;
-
-
     public NewsDataAdapter(ArticlesActivity context, List<DataModel> dataSet) {
         mParentActivity = context;
         mDataSet = new ArrayList<>(dataSet);
@@ -36,19 +30,6 @@ public class NewsDataAdapter extends RecyclerView.Adapter<NewsDataAdapter.DataOb
 
     public void setModels(List<DataModel> dataSet) {
         mDataSet = new ArrayList<>(dataSet);
-    }
-
-    public class DataObjectHolder extends RecyclerView.ViewHolder {
-        TextView mGenereTextView;
-        TextView mTitleTextView;
-        ImageView mThumbnailImageView;
-
-        public DataObjectHolder(View itemView) {
-            super(itemView);
-            mGenereTextView = (TextView) itemView.findViewById(R.id.item_genere);
-            mTitleTextView = (TextView) itemView.findViewById(R.id.item_title);
-            mThumbnailImageView = (ImageView) itemView.findViewById(R.id.item_thumbnail);
-        }
     }
 
     @Override
@@ -64,12 +45,21 @@ public class NewsDataAdapter extends RecyclerView.Adapter<NewsDataAdapter.DataOb
 
             DataModel dataItem = mDataSet.get(position);
             holder.mGenereTextView.setText(dataItem.getmTitle());
-            holder.mTitleTextView.setText(dataItem.getmByLine());
-            if (dataItem.getmImageUrl() != null && dataItem.getmImageUrl().size() > 0) {
-                holder.mThumbnailImageView.setImageURI(Uri.parse(dataItem.getmImageUrl().get(0)));
+            //holder.mTitleTextView.setText(dataItem.getmByLine());
+            holder.mTitleTextView.setText(dataItem.getItemManfacturer());
+//            if (dataItem.getmImageUrl() != null && dataItem.getmImageUrl().size() > 0) {
+//                holder.mThumbnailImageView.setImageURI(Uri.parse(dataItem.getmImageUrl().get(0)));
+//            } else {
+//                holder.mThumbnailImageView.setImageResource(R.drawable.ic_launcher);
+//            }
+
+            if (dataItem.getItemImageURL() != null ) {
+                holder.mThumbnailImageView.setImageURI(Uri.parse(dataItem.getItemImageURL()));
             } else {
                 holder.mThumbnailImageView.setImageResource(R.drawable.ic_launcher);
             }
+
+
             if (mPaginationRequestCallback != null && position == mDataSet.size() - 1) {
                 mPaginationRequestCallback.startLoading();
             }
@@ -138,5 +128,22 @@ public class NewsDataAdapter extends RecyclerView.Adapter<NewsDataAdapter.DataOb
         removeItemAndAnimate(models);
         addItemAndAnimate(models);
         moveItemAndAnimate(models);
+    }
+
+    public interface PaginationRequestCallback {
+        public void startLoading();
+    }
+
+    public class DataObjectHolder extends RecyclerView.ViewHolder {
+        TextView mGenereTextView;
+        TextView mTitleTextView;
+        ImageView mThumbnailImageView;
+
+        public DataObjectHolder(View itemView) {
+            super(itemView);
+            mGenereTextView = (TextView) itemView.findViewById(R.id.item_genere);
+            mTitleTextView = (TextView) itemView.findViewById(R.id.item_title);
+            mThumbnailImageView = (ImageView) itemView.findViewById(R.id.item_thumbnail);
+        }
     }
 }

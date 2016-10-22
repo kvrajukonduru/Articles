@@ -46,9 +46,13 @@ public class Util {
         Iterator<DataModel> iterator = results.iterator();
         while (iterator.hasNext()) {
             DataModel tempResult = iterator.next();
-            if (tempResult.getmByLine().startsWith("By ")) {
-                tempResult.setmByLine(tempResult.getmByLine().substring(2));
+//            if (tempResult.getmByLine().startsWith("By ")) {
+//                tempResult.setmByLine(tempResult.getmByLine().substring(2));
+//            }
+            if (tempResult.getmTitle()!=null) {
+                tempResult.setmTitle(tempResult.getmTitle());
             }
+
         }
         return results;
     }
@@ -71,7 +75,8 @@ public class Util {
 
             final List<DataModel> filteredDataList = new ArrayList<>();
             for (DataModel result : dataSet) {
-                final String text = result.getmByLine().toLowerCase();
+                //final String text = result.getmByLine().toLowerCase();
+                final String text = result.getmTitle().toLowerCase();
                 if (text.contains(queryString)) {
                     filteredDataList.add(result);
                 }
