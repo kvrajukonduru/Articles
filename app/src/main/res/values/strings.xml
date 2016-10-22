@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Articles Demo</string>
+    <string name="app_name">Products Demo</string>
     <string name="action_settings">Settings</string>
     <string name="app_title">Articles </string>
-    <string name="app_subtitle">NY Times News</string>
-    <string name="fetch_articles">Fetching News Articles ... </string>
+    <string name="app_subtitle">LANDMARKSHOPS.COM</string>
+    <string name="fetch_articles">Fetching New Products ... </string>
     <string name="network_disconnect">No Data Connection, please enable data connectivity!</string>
     <string name="data_parse_error">Data Parse Error  </string>
 

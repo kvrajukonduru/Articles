@@ -54,8 +54,6 @@ public class ArticlesActivity extends AppCompatActivity implements DataParseCall
         toolbar.setSubtitle(getResources().getString(R.string.app_subtitle));
         setSupportActionBar(toolbar);
 
-        // Execute Title AsyncTask
-        // new Title().execute();
 
         mRecyclerView = (RecyclerView) findViewById(R.id.my_recycler_view);
         mRecyclerView.setHasFixedSize(true);
@@ -70,16 +68,10 @@ public class ArticlesActivity extends AppCompatActivity implements DataParseCall
 
                         Intent detailActivityIntent = new Intent(ArticlesActivity.this, ArticleDetailsActivity.class);
                         DataModel itemClicked = adapter.getItem(position);
-                        //List<String> mediaMetadatumList = itemClicked.getmImageUrl();
                         String mediaMetadataurl = itemClicked.getItemImageURL();
 
-//                        if (mediaMetadatumList != null && mediaMetadatumList.size() > 0) {
-//                            String mediaMetadatum = mediaMetadatumList.get(mediaMetadatumList.size() - 1);
-//                            detailActivityIntent.putExtra(AppConstants.INTENT_EXTRA_KEY_IMAGE_URL, mediaMetadatum);
-//                        }
 
                         detailActivityIntent.putExtra(AppConstants.INTENT_EXTRA_KEY_IMAGE_URL, mediaMetadataurl);
-                        //detailActivityIntent.putExtra(AppConstants.INTENT_EXTRA_KEY_AUTHOR, itemClicked.getmByLine());
                         detailActivityIntent.putExtra(AppConstants.INTENT_EXTRA_KEY_AUTHOR, itemClicked.getItemManfacturer());
                         detailActivityIntent.putExtra(AppConstants.INTENT_EXTRA_KEY_TITLE, itemClicked.getmTitle());
                         startActivity(detailActivityIntent);
@@ -191,15 +183,15 @@ public class ArticlesActivity extends AppCompatActivity implements DataParseCall
         if (mProgressDialog != null && mProgressDialog.isShowing()) {
             mProgressDialog.dismiss();
         }
-//        List<DataModel> cleanedList = Util.cleanAuthorTitle(result);
-//        mDataSet.addAll(Util.sortAscending(cleanedList));
-//        adapter.setModels(mDataSet);
-//        adapter.notifyDataSetChanged();
-
         List<DataModel> cleanedList = Util.cleanAuthorTitle(result);
-        mDataSet.addAll(cleanedList);
+        mDataSet.addAll(Util.sortAscending(cleanedList));
         adapter.setModels(mDataSet);
         adapter.notifyDataSetChanged();
+
+//        List<DataModel> cleanedList = Util.cleanAuthorTitle(result);
+//        mDataSet.addAll(cleanedList);
+//        adapter.setModels(mDataSet);
+//        adapter.notifyDataSetChanged();
     }
 
     @Override
