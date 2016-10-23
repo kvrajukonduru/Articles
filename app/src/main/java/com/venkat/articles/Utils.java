@@ -13,4 +13,18 @@ public class Utils {
                 .getMetrics(displayMetrics);
         return displayMetrics.density;
     }
+
+    public static float getWidth(Context context) {
+        DisplayMetrics displayMetrics = new DisplayMetrics();
+        ((WindowManager) context.getSystemService(Context.WINDOW_SERVICE)).getDefaultDisplay()
+                .getMetrics(displayMetrics);
+        return displayMetrics.widthPixels;
+    }
+
+    public static float getHeight(Context context) {
+        DisplayMetrics displayMetrics = new DisplayMetrics();
+        ((WindowManager) context.getSystemService(Context.WINDOW_SERVICE)).getDefaultDisplay()
+                .getMetrics(displayMetrics);
+        return displayMetrics.heightPixels;
+    }
 }

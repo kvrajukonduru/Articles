@@ -16,9 +16,9 @@
             android:name=".SplashActivity"
             android:theme="@style/SplashTheme">
             <!--<intent-filter>-->
-                <!--<action android:name="android.intent.action.MAIN" />-->
+            <!--<action android:name="android.intent.action.MAIN" />-->
 
-                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--<category android:name="android.intent.category.LAUNCHER" />-->
             <!--</intent-filter>-->
         </activity>
         <activity
@@ -28,9 +28,13 @@
         <activity
             android:name=".ArticleDetailsActivity"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".CarouselActivity">
+        <activity
+            android:name=".carousel.CarouselActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>

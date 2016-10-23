@@ -14,4 +14,8 @@
         \n\nScientists also have not known whether there is a safe upper limit on exercise, beyond which its effects become potentially dangerous; and whether some intensities of exercise are more effective than others at prolonging lives.
         \n\nSo the new studies, both of which were published last week in JAMA Internal Medicine, helpfully tackle those questions.\n\n
     </string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 </resources>
