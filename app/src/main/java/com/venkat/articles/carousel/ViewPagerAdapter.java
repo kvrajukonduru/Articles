@@ -72,7 +72,7 @@ public class ViewPagerAdapter extends android.support.v4.view.PagerAdapter {
         dv2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                ProductDetailsActivity.newIntent(container.getContext(), dm.getItemImageURL(), dm.getmTitle(), dm.getItemname());
+                ProductDetailsActivity.newIntent(container.getContext(), dm2.getItemImageURL(), dm2.getmTitle(), dm2.getItemname());
 
             }
         });
