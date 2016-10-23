@@ -5,6 +5,8 @@ import android.content.Intent;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
+import android.view.MenuItem;
 import android.widget.TextView;
 
 import com.facebook.drawee.view.SimpleDraweeView;
@@ -27,12 +29,25 @@ public class ProductDetailsActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_product_details);
-
+        setSupportActionBar((Toolbar) findViewById(R.id.toolbar));
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         SimpleDraweeView dv= (SimpleDraweeView) findViewById(R.id.image);
         TextView title= (TextView) findViewById(R.id.title1);
         TextView title2= (TextView) findViewById(R.id.title2);
         dv.setImageURI(Uri.parse(getIntent().getStringExtra(ProductDetailsActivity.PARAMA_URL)));
         title.setText(getIntent().getStringExtra(ProductDetailsActivity.PARAMA_TITLE1));
         title2.setText(getIntent().getStringExtra(ProductDetailsActivity.PARAMA_TITLE2));
+    }
+
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                finish();
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
     }
 }

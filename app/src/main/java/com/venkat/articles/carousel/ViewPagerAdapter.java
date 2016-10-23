@@ -61,7 +61,6 @@ public class ViewPagerAdapter extends android.support.v4.view.PagerAdapter {
 
         t21.setText(dm2.getmTitle());
         t22.setText(dm2.getItemname());
-        container.addView(v);
 
         dv1.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -76,6 +75,8 @@ public class ViewPagerAdapter extends android.support.v4.view.PagerAdapter {
 
             }
         });
+
+        container.addView(v);
         return v;
     }
 
@@ -83,5 +84,7 @@ public class ViewPagerAdapter extends android.support.v4.view.PagerAdapter {
     public void destroyItem(ViewGroup container, int position, Object object) {
         container.removeView((LinearLayout) object);
     }
-
+    public int getItemPosition(Object object){
+        return POSITION_NONE;
+    }
 }
