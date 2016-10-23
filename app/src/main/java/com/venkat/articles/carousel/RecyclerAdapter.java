@@ -1,5 +1,6 @@
 package com.venkat.articles.carousel;
 
+import android.support.v4.view.ViewPager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -31,6 +32,22 @@ class RecyclerAdapter extends RecyclerView.Adapter {
         mPager.setAdapter(adapterCarousel);
         mCircleIndicator.setViewPager(mPager);
         adapterCarousel.registerDataSetObserver(mCircleIndicator.getDataSetObserver());
+        mPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+            @Override
+            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+
+            }
+
+            @Override
+            public void onPageSelected(int position) {
+                mPager.invalidate();
+            }
+
+            @Override
+            public void onPageScrollStateChanged(int state) {
+
+            }
+        });
         return new ViewHolder(v);
     }
 
@@ -41,8 +58,8 @@ class RecyclerAdapter extends RecyclerView.Adapter {
 
     @Override
     public int getItemCount() {
-        if (mDataSet.size()>5)
-        return 5;
+        if (mDataSet.size()>10)
+        return 10;
         else
             return mDataSet.size();
     }
